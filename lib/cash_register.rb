@@ -4,4 +4,7 @@ class CashRegister
     @total = 0
     @discount = 20 if discount
   end
+  
+  def add_item(item)
+  end
 end
