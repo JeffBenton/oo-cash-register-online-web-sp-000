@@ -1,5 +1,5 @@
 class CashRegister
-  def initialize(employee_discount=false)
+  def initialize(discount=false)
     @total = 0
   end
 end
