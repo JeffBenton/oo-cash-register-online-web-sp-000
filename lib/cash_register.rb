@@ -5,6 +5,6 @@ class CashRegister
     @discount = 20 if discount
   end
   
-  def add_item(item)
+  def add_item(title, price)
   end
 end
